@@ -71,7 +71,7 @@ fr:
         completed_at: "Effectué le"
         coupon_code: "Code promotionnel"
         ip_address: "Adresse IP"
-        item_total: "Total d'articles"
+        item_total: "Total des articles"
         number: "Numéro"
         special_instructions: "Instructions spéciales"
         state: "Région"
